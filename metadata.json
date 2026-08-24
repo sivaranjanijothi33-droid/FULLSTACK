@@ -1,0 +1,6 @@
+{
+  "name": "AI Port Congestion",
+  "description": "Predictive AI platform to forecast labour, warehouse, vehicle, and crane requirements before ship arrival and automatically reschedule resources during delays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
